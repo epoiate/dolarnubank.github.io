@@ -1,5 +1,6 @@
 # Dólar do Nubank
 
+
 ![Valor Nubank](valor-nubank.png)
 
 O objetivo do site [dolarnubank.github.io](https://dolarnubank.github.io)
@@ -90,3 +91,7 @@ aparece o valor final de R$ 104,27. Qual é a porcentagem do spread do Nubank?
     S = 0,0436729432279
 
 O spread é de 4,367%
+
+### Todos os créditos a @marcelod
+
+Por algum motivo o GitHub Pages do repositório dele parou de funcionar, aqui está um backup
